@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.2](https://github.com/leavesster/release-please-demo/compare/release-please-demo-v0.4.1...release-please-demo-v0.4.2) (2024-03-21)
+
+
+### Bug Fixes
+
+* add more log ([a937ec5](https://github.com/leavesster/release-please-demo/commit/a937ec5e34ef68afb0ac8a08028c8b9d545883f1))
+
 ## [0.4.1](https://github.com/leavesster/release-please-demo/compare/release-please-demo-v0.4.0...release-please-demo-v0.4.1) (2024-03-21)
 
 
