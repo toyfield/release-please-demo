@@ -1,16 +1,6 @@
 name: publish
 
 on:
-  # google 的 release please 似乎触发的是 release 事件，而不是 tag 事件
-  release:
-    types:
-      - published
-      - unpublished
-      - created
-      - edited
-      - deleted
-      - prereleased
-      - released
   push:
     tags:
       - "**"
@@ -21,4 +11,3 @@ jobs:
       - name: echo
         run: |
           echo "${{github.event_name}}"
-          echo "${{github.event}}"
