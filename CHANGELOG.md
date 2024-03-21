@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.1](https://github.com/leavesster/release-please-demo/compare/release-please-demo-v0.4.0...release-please-demo-v0.4.1) (2024-03-21)
+
+
+### Bug Fixes
+
+* add column ([6171e28](https://github.com/leavesster/release-please-demo/commit/6171e286b237e960fbdccf63b527b0173e6deb67))
+
 ## [0.4.0](https://github.com/leavesster/release-please-demo/compare/release-please-demo-v0.3.0...release-please-demo-v0.4.0) (2024-03-21)
 
 
