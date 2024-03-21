@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/toyfield/release-please-demo/compare/release-please-demo-v0.2.1...release-please-demo-v0.3.0) (2024-03-21)
+
+
+### Features
+
+* update ([51a2814](https://github.com/toyfield/release-please-demo/commit/51a2814ec053321958008c46a453245460f5f015))
+
 ## [0.2.1](https://github.com/toyfield/release-please-demo/compare/release-please-demo-v0.2.0...release-please-demo-v0.2.1) (2024-03-21)
 
 
